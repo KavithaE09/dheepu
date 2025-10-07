@@ -207,7 +207,7 @@ const SupportChatbot = () => {
         </div>
 
         <p className="text-xs text-muted-foreground text-center italic">
-          This is an AI assistant. For emergencies, please use the resources above.
+  
         </p>
       </CardContent>
     </Card>

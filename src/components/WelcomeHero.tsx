@@ -21,7 +21,7 @@ const WelcomeHero = () => {
         <div className="text-gray-700 text-lg space-y-2">
           <p className="italic font-bold">From Kavi, for Dheepuu 💜</p>
           <p className="text-base max-w-xl mx-auto leading-relaxed font-bold">
-            This is your safe haven — a place where you can breathe, reflect, and find support whenever you need it.
+            This is your safe heaven — a place where you can breathe, reflect, and find support whenever you need it.
           </p>
         </div>
       </div>

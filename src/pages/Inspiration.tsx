@@ -19,7 +19,7 @@ const Inspiration = () => {
               You're Stronger Than You Know
             </h1>
             <p className="text-xl md:text-2xl text-foreground/90 font-light italic max-w-3xl mx-auto leading-relaxed">
-              "If you could handle them for four years, trust me—you can handle anything life throws at you. 💪✨🔥"
+              "If you could handle us for four years, trust me—you can handle anything life throws at you. 💪✨🔥"
             </p>
           </div>
 
