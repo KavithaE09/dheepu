@@ -12,7 +12,6 @@ import CalmingSounds from "@/components/CalmingSounds";
 import MeditationGuide from "@/components/MeditationGuide";
 import ProgressTracker from "@/components/ProgressTracker";
 import SafeSpace from "@/components/SafeSpace";
-import CommunitySupport from "@/components/CommunitySupport";
 import SupportChatbot from "@/components/SupportChatbot";
 
 const Index = () => {
@@ -61,9 +60,6 @@ const Index = () => {
           <SafeSpace />
         </div>
         
-        <div className="animate-fade-in">
-          <CommunitySupport />
-        </div>
         
         <div className="animate-fade-in">
           <SupportChatbot />
